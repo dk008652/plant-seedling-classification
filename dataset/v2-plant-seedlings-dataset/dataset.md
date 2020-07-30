@@ -1,5 +1,5 @@
 # plant-seedling-classification
 Add your dataset here 
-link for dataset to download:
+link to download the dataset:
 https://arxiv.org/abs/1711.05458
 
